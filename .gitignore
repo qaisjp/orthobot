@@ -1,9 +1,6 @@
-# Object files
-*.o
-
-# Libraries
-*.lib
-*.a
+# Cache files
+.DS_Store
+Thumbs.db
 
 # Shared objects (inc. Windows DLLs)
 *.dll
