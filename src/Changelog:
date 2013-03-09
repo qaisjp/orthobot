@@ -1,1 +1,15 @@
-- temporary file -
+Defaults to fullscreen for easier development on my side, but you can press the "f" key during the intro (also skips the intro) to go into windowed mode.
+
+Changes:
+
+
+Bugs to fix:
+ - The 3d interface jitters when you move the mouse off the screen boundary.
+    INFO: This is because the mouse skips a few units at the boundaries.
+    SOLUTION: Blending positioning (impossible to get choppyness), this also allows for a better camera.
+
+Features soon:
+ - Create option window
+      - Option and support for fullscreen
+      - Option to turn off the easy controls
+- High scores
