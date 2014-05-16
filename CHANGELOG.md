@@ -1,6 +1,3 @@
-More updates coming soon
-
-
 Saturday 9th March; 7:11pm GMT+-0
 -------------------------------------------
 Changes:
